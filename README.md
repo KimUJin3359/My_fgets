@@ -1,25 +1,26 @@
-# get_next_line
+# My_fgets
 
-This is a project from 2020-12-31 to 2021-01-02
+### Summary
 
-### summary
+#### Allow me to read the text available on a file descriptor one line at a time until the EOF
 
-#### make my get_next_line
+#### It reads from a file and when it reads from the standard input
 
-allow me to read the text available on a file descriptor one line at a time until the EOF
+Prototype : get_next_line(int fd, char **line)
+- fd : file descriptor
+- line : storage of a read line
 
-it reads from a file and when it reads from the standard input
+### Project
 
-### subject
-
-[en.subject](https://github.com/KimUJin3359/get_next_line/blob/master/en.subject.pdf)
-
-### velog
-
-[velog by ljiwoo59, woojikim](https://velog.io/@ljiwoo59/getnextline)
+This is a project my fgets.
 
 ### To be fixed
 
-buffer to dynamic allocation
+makes buffer to dynamic allocation
 
 return Error when failed to allocate memory
+
+#### Helps
+- [explanation]
+  - Help : [ljiwoo59](https://github.com/ljiwoo59)
+  - [For more Information About My_fgets](https://velog.io/@ljiwoo59/getnextline)
