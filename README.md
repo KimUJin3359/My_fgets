@@ -12,7 +12,7 @@ Prototype : get_next_line(int fd, char **line)
 
 ### Project
 
-This is a project making my fgets.
+This is a project making my function like fgets named get next line.
 
 ### To be fixed
 
