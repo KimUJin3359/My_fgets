@@ -21,6 +21,6 @@ makes buffer to dynamic allocation
 return Error when failed to allocate memory
 
 #### Helps
-- [explanation]
-  - Help : [ljiwoo59](https://github.com/ljiwoo59)
-  - [For more Information About My_fgets](https://velog.io/@ljiwoo59/getnextline)
+| type | people | content |
+| --- | --- | --- |
+| explanation | [ljiwoo59](https://github.com/ljiwoo59) | [For more Information About My_fgets](https://velog.io/@ljiwoo59/getnextline) |
